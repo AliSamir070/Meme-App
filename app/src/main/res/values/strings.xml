@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Meme App</string>
+    <string name="message">Welcome to Funny Meme</string>
+    <string name="meme">#MEME</string>
+    <string name="laugh">#LAUGH</string>
+    <string name="fun">#FUN</string>
+    <string name="happy">#HAPPY</string>
+</resources>
